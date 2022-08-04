@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420410486516",
+    "project_id": "up-skilling-888dd",
+    "storage_bucket": "up-skilling-888dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420410486516:android:9c5a8646b3f382ba7bb8a1",
+        "android_client_info": {
+          "package_name": "za.co.psg.flutterupskilling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420410486516-a69hu45qg9p2djn3ughl2shspelf7bbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9v7Wemr-FB8Gx7rpb5Dp9wCQHttEofT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420410486516-a69hu45qg9p2djn3ughl2shspelf7bbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

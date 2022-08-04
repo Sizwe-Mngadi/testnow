@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>method</key>
+	<string>app-store</string>
+	<key>teamID</key>
+	<string>6S9P5XMDA2</string>
+	<key>uploadBitcode</key>
+	<false/>
+	<key>compileBitcode</key>
+	<true/>
+	<key>uploadSymbols</key>
+	<true/>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>signingCertificate</key>
+	<string>Certificates.p12</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>upskilling_provison</key>
+		<string>d8e9a64c-ea45-4a5f-9a94-300e063e19f1</string>
+	</dict>
+</dict>
+</plist>
+
+
+
+<!-- <?xml version=”1.0" encoding=”UTF-8"?>
+<!DOCTYPE plist PUBLIC “-//Apple//DTD PLIST 1.0//EN” “http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version=”1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>method</key>
+	<string>app-store</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>AppBundleID</key>
+		<string>za.co.psg.flutterupskilling</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>Certificates.p12</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>teamID</key>
+	<string>6S9P5XMDA2</string>
+</dict>
+</plist> -->
+
