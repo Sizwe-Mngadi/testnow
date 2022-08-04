@@ -22,7 +22,7 @@ Create a new branch with your name and work on that branch.
 #Screens
 Login
 +Email
-+Password
++Password 
 +Button
 
 Processes
