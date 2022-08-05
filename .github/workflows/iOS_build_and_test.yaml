@@ -65,7 +65,7 @@ jobs:
         run: flutter pub get
 
       - name: Build Flutter
-        run: flutter build ios --no-codesign
+        run: flutter build ios --release
 
       - name: Build resolve Swift dependencies
         run: xcodebuild -resolvePackageDependencies -workspace ios/Runner.xcworkspace -scheme Runner -configuration Release
