@@ -33,7 +33,7 @@ Processes
 Sign Up
 +Username
 +Email
-+Password
++Password 
 +Button
 
 Processes
