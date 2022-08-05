@@ -42,7 +42,7 @@
 	<key>signingCertificate</key>
 	<string>Certificates.p12</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>teamID</key>
 	<string>6S9P5XMDA2</string>
 </dict>
