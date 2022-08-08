@@ -18,7 +18,7 @@
 	<string>Certificates.p12</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>upskilling_provison</key>
+		<key>za.co.psg.flutterupskilling</key>
 		<string>d8e9a64c-ea45-4a5f-9a94-300e063e19f1</string>
 	</dict>
 </dict>
