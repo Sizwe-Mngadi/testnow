@@ -35,6 +35,8 @@ jobs:
 
       - name: Checkout the code
         uses: actions/checkout@v2
+      - name: Force Xcode 11
+        run: sudo xcode-select -switch /Applications/Xcode_11.3.app
 
       # - name: Install Apple Certificate
       #   uses: apple-actions/import-codesign-certs@v1
