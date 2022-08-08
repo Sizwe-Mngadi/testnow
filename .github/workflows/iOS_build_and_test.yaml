@@ -111,6 +111,8 @@ jobs:
       #     name: release-ios
       #     path: build-output/ios
 
+
+# automatically signs when building the ipa
       # Build and sign the ipa using a single flutter command
       - name: Building IPA
         run: flutter build ipa --release --export-options-plist=ios/ExportOptions.plist
